@@ -1,0 +1,14 @@
+C:\Users\cshan\Source\Repos\lab1\CarSimulator\bin\Debug\netcoreapp3.1\CarSimulator.exe
+C:\Users\cshan\Source\Repos\lab1\CarSimulator\bin\Debug\netcoreapp3.1\CarSimulator.deps.json
+C:\Users\cshan\Source\Repos\lab1\CarSimulator\bin\Debug\netcoreapp3.1\CarSimulator.runtimeconfig.json
+C:\Users\cshan\Source\Repos\lab1\CarSimulator\bin\Debug\netcoreapp3.1\CarSimulator.runtimeconfig.dev.json
+C:\Users\cshan\Source\Repos\lab1\CarSimulator\bin\Debug\netcoreapp3.1\CarSimulator.dll
+C:\Users\cshan\Source\Repos\lab1\CarSimulator\bin\Debug\netcoreapp3.1\CarSimulator.pdb
+C:\Users\cshan\Source\Repos\lab1\CarSimulator\obj\Debug\netcoreapp3.1\CarSimulator.csproj.AssemblyReference.cache
+C:\Users\cshan\Source\Repos\lab1\CarSimulator\obj\Debug\netcoreapp3.1\CarSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cshan\Source\Repos\lab1\CarSimulator\obj\Debug\netcoreapp3.1\CarSimulator.AssemblyInfoInputs.cache
+C:\Users\cshan\Source\Repos\lab1\CarSimulator\obj\Debug\netcoreapp3.1\CarSimulator.AssemblyInfo.cs
+C:\Users\cshan\Source\Repos\lab1\CarSimulator\obj\Debug\netcoreapp3.1\CarSimulator.csproj.CoreCompileInputs.cache
+C:\Users\cshan\Source\Repos\lab1\CarSimulator\obj\Debug\netcoreapp3.1\CarSimulator.dll
+C:\Users\cshan\Source\Repos\lab1\CarSimulator\obj\Debug\netcoreapp3.1\CarSimulator.pdb
+C:\Users\cshan\Source\Repos\lab1\CarSimulator\obj\Debug\netcoreapp3.1\CarSimulator.genruntimeconfig.cache
